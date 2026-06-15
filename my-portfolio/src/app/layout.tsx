@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Your Name | Software Engineer Portfolio",
+  title: "John Christopher Zuniga | Software Engineer Portfolio",
   description: "Portfolio of an aspiring software engineer specializing in modern web ecosystems.",
 };;
 
