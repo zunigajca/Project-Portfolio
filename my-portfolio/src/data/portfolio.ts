@@ -9,7 +9,7 @@ export const portfolioData = {
       title: "Interactive Note-Taking App",
       description: "A responsive note-taking application with real-time collaboration features.",
       tech: ["MongoDB", "Express", "React", "Node.js"],
-      github: "https://github.com/zunigajca/Project-Portfolio.git"
+      github: "https://github.com/zunigajca/notably-app.git"
     },
     {
       title: "SupperSite",
