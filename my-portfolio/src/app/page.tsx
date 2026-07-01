@@ -13,7 +13,7 @@ export default function Home() {
         </div>
 
         <Image
-          src="/profile.jpg"
+          src="/profile1.jpg"
           alt="My profile"
           width={200}
           height={200}
